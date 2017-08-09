@@ -14,7 +14,7 @@ http = { git = 'https://github.com/younisshah/dracarys' }
 ```
 
 
-#### Example usage to add an API to kong
+#### Example usage to add an API to Kong
 
 ```rust
 extern crate dracarys;
