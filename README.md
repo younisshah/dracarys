@@ -25,7 +25,7 @@ fn main() {
     let kong = dracarys::roar::Kong::new("http://127.0.0.1:8001");
     let api = dracarys::types::KongAPI {
         name: "roar".to_string(),
-        hosts: vec!["roar.ai".to_string()],
+        hosts: vec!["httpbin.org".to_string()],
         uris: vec![],
         preserve_host: false,
         upstream_url: "http://httpbin.org".to_string(),
