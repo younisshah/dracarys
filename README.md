@@ -1,6 +1,6 @@
 ### Dracarys
 
-Dracarys is a [Kong](https://getkong.org) API gateway client in Rust. The aim to provide an elegant API to interact
+Dracarys is a [Kong](https://getkong.org) API gateway client in Rust. The aim is to provide an elegant API to interact
 with Kong for managing Kong APIs, plugins and Kong clusters.
 
 **Dracarys** is a work in progress as such isn't ready for [crates.io](http://crates.io) yet but I'm working
