@@ -6,7 +6,7 @@ with Kong for managing Kong APIs, plugins and Kong clusters.
 **Dracarys** is a work in progress as such isn't ready for [crates.io](http://crates.io) yet but I'm working
 round the clock.
 
-#### Use a `git` dependency in your `Cargo.toml`:
+#### Use `git` dependency in your `Cargo.toml`:
 
 ```ini
 [dependencies]
