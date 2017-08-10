@@ -19,7 +19,7 @@ http = { git = 'https://github.com/younisshah/dracarys' }
 ```rust
 extern crate dracarys;
 
-use dracarys
+use dracarys;
 
 fn main() {
     let kong = dracarys::roar::Kong::new("http://127.0.0.1:8001");
